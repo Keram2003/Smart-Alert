@@ -1,0 +1,11 @@
+Flask
+Flask_SQLAlchemy
+Werkzeug
+gunicorn
+tensorflow
+numpy
+opencv-python
+transformers
+torch
+Pillow
+scikit-learn
